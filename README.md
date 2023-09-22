@@ -8,7 +8,8 @@ java tarafında:
 1- lombok, getter ve setterları otomatikleştiriyor. intellij ideanın içerisindeki plugin marketten kurabilirsiniz. zaten maven dependencylerinde de ekli.
 
 2- database(postgresql) bağlantısı için application.properties bölümünde bazı ufak ayarlar yapmanız gerekebilir sizde farklıysa.
-``` spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.PostgreSQLDialect
+`
+spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.PostgreSQLDialect
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.hibernate.show-sql=true
 spring.datasource.url=jdbc:postgresql://localhost:5432/dolapcomDatabase
@@ -16,7 +17,7 @@ spring.datasource.username=postgres
 spring.datasource.password=postgres
 spring.jpa.properties.javax.persistence.validation.mode = none
 
-```
+`
 
 react tarafinda:
 indirir indirmez, ```npm run dev``` yazarak projeyi 1 kere baslatabilir, daha sonrasinda da ```npm start``` yazarak baslatabilirsiniz.
