@@ -36,6 +36,6 @@ npm install react-router-dom
 npm install semantic-ui-react
 npm install semantic-ui-css
 npm install swiper```
-swiperi kullanmadim ama projede duruyor.`
+swiperi kullanmadim ama projede duruyor.
 ve fontawesome. neleri indirdigimi hatirlamiyorum.
-``
+
