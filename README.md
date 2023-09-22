@@ -3,6 +3,11 @@
 Merhabalar,
 Bu proje benim ilk spring/react projem ve herhangi bir kötü amaç barındırmıyor. Kötü amaçlı kullanamayın diye de satın alma ekranını yazmadım.
 
+2 dakikalık tanıtım videosu:
+[Tikla git, youtube](https://youtu.be/bxrI2C-vyWA?si=oLFFh-FdWW5TKZVX)
+
+
+
 
 # Kodları düzgün çalıştırmak için belki sizde yoktur diyebileceklerim;
 
