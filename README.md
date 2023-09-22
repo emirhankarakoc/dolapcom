@@ -14,7 +14,9 @@ spring.jpa.hibernate.show-sql=true
 spring.datasource.url=jdbc:postgresql://localhost:5432/dolapcomDatabase
 spring.datasource.username=postgres
 spring.datasource.password=postgres
-spring.jpa.properties.javax.persistence.validation.mode = none ```
+spring.jpa.properties.javax.persistence.validation.mode = none
+
+```
 
 react tarafinda:
 indirir indirmez, ```npm run dev``` yazarak projeyi 1 kere baslatabilir, daha sonrasinda da ```npm start``` yazarak baslatabilirsiniz.
