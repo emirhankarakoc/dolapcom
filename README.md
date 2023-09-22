@@ -7,7 +7,7 @@ Bu proje benim ilk spring/react projem ve herhangi bir kötü amaç barındırm�
 # Kodları düzgün çalıştırmak için belki sizde yoktur diyebileceklerim;
 ``
 java tarafında:
-1- lombok,
+# 1- lombok
 getter ve setterları otomatikleştiriyor. intellij ideanın içerisindeki plugin marketten kurabilirsiniz. zaten maven dependencylerinde de ekli.
 
 2- database(postgresql) bağlantısı için application.properties bölümünde bazı ufak ayarlar yapmanız gerekebilir.
