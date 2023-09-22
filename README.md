@@ -10,7 +10,9 @@ java tarafında:
 # 1- lombok
 getter ve setterları otomatikleştiriyor. intellij ideanın içerisindeki plugin marketten kurabilirsiniz. zaten maven dependencylerinde de ekli.
 
-2- database(postgresql) bağlantısı için application.properties bölümünde bazı ufak ayarlar yapmanız gerekebilir.
+# 2- database(postgresql) bağlantısı için
+
+application.properties bölümünde bazı ufak ayarlar yapmanız gerekebilir.
 `
 spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.PostgreSQLDialect
 spring.jpa.hibernate.ddl-auto=update
