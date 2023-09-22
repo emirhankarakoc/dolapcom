@@ -1,0 +1,56 @@
+
+.dropbtn {
+  width: 100%;
+  color: white;
+  padding: 16px; 
+ font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+.bg-blue{
+  background-color: blue;
+
+}
+.bg-yellow{
+  background-color: yellow;
+
+}
+.dropdown {
+  position: relative; /* Dropdown menüyü mutlak pozisyona getirin */
+  width: 100%; /* Genişliği 100% olarak ayarlayın */
+  height: 100%; /* Yüksekliği 100% olarak ayarlayın */
+
+}
+
+.dropdown-content {
+  display: none;
+  position: relative;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  
+}
+/* dropdownun icerisindekilerin css'i */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn .bg-blue{
+  background-color: rgb(255, 0, 0);
+}
+
+
+
+.four.wide.column {
+  text-align: center;
+  padding: 0 !important;
+}

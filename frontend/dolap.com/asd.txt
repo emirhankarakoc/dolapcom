@@ -1,0 +1,50 @@
+<Form.Field>
+                <label>Ürünün Üst Menüdeki Yolları Anasayfa - Giyim - Kuşam - zart zurt yeri burası</label>
+                <input placeholder='{Ana Sayfa},{Teknoloji},{Steelseries},{Rival 3} seklinde yaz.' />
+                </Form.Field>
+
+                <Form.Field>
+                <label>Fotoğraf Linkleri, üsttekiyle aynı şekilde yazıcaz. &#123;https://asdasd.com/fotoLink&#125; virgül koy devam et </label>
+                <input placeholder='&#123;https://asdasd.com/fotoLink&#125;,&#123;https://asdasd.com/fotoLink&#125;,&#123;https://asdasd.com/fotoLink&#125; şeklinde' />
+                </Form.Field>
+
+                <Form.Field>
+                    <label>Beğeni Sayısını Gir</label>
+                    <input placeholder='SAYI OLARAK GIR'/>
+                </Form.Field>
+                <Form.Field>
+                    <label>Ürünün Fiyatını Gir</label>
+                    <input placeholder='SAYI OLARAK GIR'/>
+                </Form.Field>
+                <Form.Field>
+                    <label>Ürünün indirime girmeden önceki fiyatını gir *dümenden*</label>
+                    <input placeholder='SAYI OLARAK GIR, üstü çizili olan burası'/>
+                </Form.Field>
+                <Form.Field>
+                    <label>Satıcının fotoğraf linkini buraya gir</label>
+                    <input placeholder='LİNK OLARAK GİR. https://fotograf.com/fotolink ŞEKLİNDE ! SÜSLÜ PARANTEZ KOYMADAN.'/>
+                </Form.Field>
+                <Form.Field>
+                    <label>Satıcının Kullanıcı adını gir</label>
+                    <input placeholder='METIN OLARAK GIR, BOŞLUK BIRAKMADAN YAZ'/>
+                </Form.Field>
+                <Form.Field>
+                    <label> Satıcı Puanını Gir</label>
+                    <input placeholder='SAYI OLARAK GIR'/>
+                </Form.Field>
+                <Form.Field>
+                    <label>Satıcının YILDIZ Sayısını Gir</label>
+                    <input placeholder='1-5 arası bir SAYI gir'/>
+                </Form.Field>
+                <Form.Field>
+                    <label>AÇIKLAMA YAZ 255 KARAKTERİ GEÇMEDEN</label>
+                    <input placeholder='255 KARAKTERE DİKKAT ET'/>
+                </Form.Field>
+                <Form.Field>
+                    <label>Rengini yazıver SİYAH BEYAZ MAVİ BOKRENGİ şeklinde</label>
+                    <input placeholder='METİN OLARAK GIR'/>
+                </Form.Field>
+                <Form.Field>
+                    <label>RENGİNİN RENK KODUNU Gir</label>
+                    <input placeholder='çok önemli değil, renge yakın olsun yeter. üsttekine kırmızı yazıp buraya mavinin kodunu verme'/>
+                </Form.Field>

@@ -1,0 +1,287 @@
+.App {
+  text-align: center;
+}
+
+.ui.main.container{
+
+  margin-bottom: 5em;
+}
+
+.searchboxSolaYatir {
+  margin-right: 200px; /* Sağa 10px margin eklemek için */
+}
+
+.afterMenu{
+  margin-top: 73px;
+}
+
+.dropbtn {
+  width: 100%;
+  color: white;
+  padding: 16px; 
+ font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+.bg-giyim{
+  background-color: rgb(102, 47, 178);
+
+}
+.bg-white{
+  background-color: white;
+}
+.text-align-left {
+  text-align: left;
+}
+
+.margin-left-5px{
+  margin-left: 5px;
+}
+.margin-top-10px{
+  margin-top: 10px;
+}
+.bg-canta{
+  background-color: rgb(137, 255, 176);
+
+}
+.bg-ayakkabi{
+  background-color: rgb(255, 87, 87);
+}
+.bg-aksesuar{
+  background-color: rgb(255, 176, 28);
+}
+.bg-main{
+  background-color: #f6f6f6;
+}
+.max-width{
+  width: 100%;
+  height: 538px;
+}
+.buyutulmus-p{
+  margin-left: 20px;
+  font-size: 30px;
+}
+.tac-emir{
+  text-align: center;
+  
+}
+.max-height-50px{
+  max-height: 50px;
+}
+.satinAlButon{
+  color: white !important;
+  margin-top: 0px !important;
+  padding: 30px 30px !important;
+  font-size: larger !important;
+  background-color: #73e2bd !important;
+}
+.satinAlButon:hover{
+  background-color: #4f9b82 !important;
+}
+.color-aquamarine{
+  background-color: aquamarine;
+  color: aquamarine;
+}
+.ustucizili-metin{
+  text-decoration: line-through;
+}
+.float-left{
+  float: left;
+}
+.display-block{
+  display: block;
+}
+.margin-top-30px{
+  margin-top: 30px;
+}
+.satici-kullanici{
+  font-size: 20;
+  font-weight: 700;
+}
+.slider-icindeki-paylasyeri{
+  background-color: red;
+  opacity: 0.8;
+}
+.image-fakabasti {
+  max-width: 300px !important;
+max-height: 300px !important;
+}
+
+.wrapper-fakabasti {
+  max-width: 300px;
+  max-height: 300px;
+  display: flex;
+  flex-direction: column;
+}
+
+.buttons-fakabasti {
+  display: inline;
+  background-color: red;
+}
+.dikey-center{
+margin-top: 7px !important;
+}
+.zumzum:hover{
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+   transform: scale(1.1); 
+}
+.alici-odemeli-kargo{
+  font-weight: 500;
+  font-size: 25px;
+}
+.bg-grimsi{
+  background-color: #1e1e1e;
+}
+.bgm-saritrak{
+  background-color: yellowgreen;
+}
+.label{
+
+  color: white;
+}
+.padding-100px{
+  padding: 100px;
+}
+.text-align-left{
+  text-align: left;
+}
+.margin-auto{
+  margin: auto;
+}
+.margin-left-10px{
+margin-left: 10px;
+}
+.urununFiyati{
+  padding: 0px;
+  margin-top: 0px;
+  margin-left: 20px;
+  float: left;
+font-size: 50px;
+  font-weight: 900;
+}
+.padding-YOK{
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+.ustMenuUrunYollari-topbot-margin-sola-yatir{
+  text-align: left;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.footer-renklendir-h3{
+  color: white;
+  font-size: 1em;
+  font-weight: 1000;
+  margin: 0;
+  margin-bottom: 10px;
+}
+.padding-bot-yok{
+  font-size: 13px;
+  padding-top: 0px !important;
+  padding-bottom: 10px !important;
+  
+}
+.margin-bot-50px{
+  padding: 0px;
+  margin-top:25px;
+  margin-bottom: 10px
+}
+.footer-textcolor-white{
+  color: white;
+}
+
+
+
+
+/*
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+*/
+/* SocialMediaIcons.css */
+
+.footer-icon-renklendirici {
+  color: #1e1e1e; /* Ikon rengi */
+}
+.footer-icon-sagsol-margin{
+  margin-right: 5px;
+  margin-left: 5px;
+}
+.footer-icon-border{
+  padding: 15px;
+
+  border: 1px solid #1e1e1e; /* Çerçeve rengi ve kalınlığı */
+  border-radius: 50%; /* Yuvarlak köşeler */
+}
+.margin-left-25px{
+  margin-left: 25px;
+}
+.backgroundfotosu{
+  background-color: #1e1e1e;
+  color: white;
+}
+.margin-top-30px{
+  margin-top: 30px;
+}
+.background-image-dolapfooter{
+  background-image: url('https://cdn.dolap.com/web/images/bg-footer.jpg');
+  background-size: 100% auto; /* Resmi ekran genişliği kadar genişletir */
+  background-repeat: no-repeat;
+}
+.dropdown {
+  position: relative; /* Dropdown menüyü mutlak pozisyona getirin */
+  width: 100%; /* Genişliği 100% olarak ayarlayın */
+  height: 100%; /* Yüksekliği 100% olarak ayarlayın */
+
+}
+
+.dropdown-content {
+  display: none;
+  position: relative;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+/* dropdownun icerisindekilerin css'i */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+  position: absolute;
+
+}
+
+/*
+.dropdown:hover .dropbtn {
+  background-color: red;
+}
+*/
+
+
+.four.wide.column {
+  text-align: center;
+  padding: 0 !important;
+}
+.ui.basic.label{
+  background: none #fff;
+   border: 0px solid rgba(34,36,38,.15); 
+  color: rgba(0,0,0,.87);
+   box-shadow: none; 
+}
+.ui.basic.button, .ui.basic.buttons .button {
+  background: transparent none!important;
+  color: rgba(0,0,0,.6)!important;
+  font-weight: 400;
+   border-radius: 0rem; 
+  text-transform: none;
+  text-shadow: none!important;
+   box-shadow: 0 0 0 0px rgba(34,36,38,.15) inset;
+}
