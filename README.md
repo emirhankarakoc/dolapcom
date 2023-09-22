@@ -24,13 +24,13 @@ indirir indirmez, ```npm run dev``` yazarak projeyi 1 kere baslatabilir, daha so
 benim indirdigim react paketleri, otomatik olarak size yuklenir mi bilmiyorum ama aklima gelenleri yazayim.
 
 ![image](https://github.com/emirhankarakoc/dolapcom/assets/101813995/17a819d0-a111-4d8f-a0ee-ad2219406c27)
-
+`
 npm install axios
 npm install react-bootstrap
 npm install react-rom
 npm install react-router-dom
 npm install semantic-ui-react
 npm install semantic-ui-css
-npm install swiper
+npm install swiper`
 swiperi kullanmadim ama projede duruyor.
 ve fontawesome. neleri indirdigimi hatirlamiyorum.
