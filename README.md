@@ -21,15 +21,15 @@ spring.datasource.username=postgres
 spring.datasource.password=postgres
 spring.jpa.properties.javax.persistence.validation.mode = none
 
-`
+```
 
 react tarafinda:
-indirir indirmez,  `npm run dev`  yazarak projeyi 1 kere baslatabilir, daha sonrasinda da  `npm start`  yazarak baslatabilirsiniz.
-benim indirdigim react paketleri, otomatik olarak size yuklenir mi bilmiyorum ama aklima gelenleri yazayim.``
+indirir indirmez,  ```npm run dev```  yazarak projeyi 1 kere baslatabilir, daha sonrasinda da  ```npm start``` yazarak baslatabilirsiniz.
+benim indirdigim react paketleri, otomatik olarak size yuklenir mi bilmiyorum ama aklima gelenleri yazayim.
 
 ![react tarafinda dependencylerim.](https://github.com/emirhankarakoc/dolapcom/assets/101813995/17a819d0-a111-4d8f-a0ee-ad2219406c27)
-`
-npm install axios
+
+```npm install axios
 npm install react-bootstrap
 npm install react-rom
 npm install react-router-dom
